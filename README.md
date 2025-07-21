@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Juma6
-  # this page dedicated java 
+  # this page is dedicated for java 
   
 
 <!---
