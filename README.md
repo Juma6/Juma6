@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Juma6
-  # this is a file dedicated to work on JAVA and SPRINGBOOT framework.
+  # this page dedicated java 
   
 
 <!---
